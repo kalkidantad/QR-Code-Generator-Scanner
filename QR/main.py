@@ -1,8 +1,7 @@
 # import os
 # print("Current working directory:", os.getcwd())
 
-# open the project directory in cmd and run the code using this
-# "C:\Users\zbook g3\AppData\Local\Programs\Python\Python312\python.exe" main.py
+
 
 import sys
 import cv2
